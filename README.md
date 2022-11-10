@@ -41,7 +41,16 @@
 
 
 <!-- USAGE EXAMPLES -->
-## Tech Stack
+## Tech Stack/Experience
+- [ ] HTML
+- [ ] CSS
+- [ ] JS (React.js, Node.js, React Native)
+- [ ] Python 
+- [ ] MySQL, Sqlite3
+- [ ] Swift
+- [ ] Figma 
+- [ ] Jira
+- [ ] LucidChart
 
 <!-- * [![JQuery][JQuery.com]][JQuery-url]-->
 <!-- * <a href="https://flyclipart.com/java-logos-download-java-logo-png-892734" title="Java Logos Download - Java Logo PNG"><img src="https://flyclipart.com/thumb2/java-logos-download-892734.png" width="50" /></a> -->
@@ -62,6 +71,10 @@
 
 <!-- RESUME -->
 ## Resume 
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/resume.jpg" alt="Resume" width="400" height="500">
+  </a>
+
 
 
 <!-- CONTACT -->
@@ -73,7 +86,7 @@ Email - noor.alyasiri@mavs.uta.edu
 
 Github - [@nooralyasiri](https://github.com/nooralyasiri)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+
 
 
 
