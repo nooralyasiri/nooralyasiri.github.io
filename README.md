@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/iconHello.png" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center"> HELLO, WORLD!</h3>
@@ -25,83 +25,53 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About</a></li>
+    <li><a href="#about-me">About</a></li>
     <li><a href="#tech-stack">Tech Stack</a></li>
-    <li><a href="#usage">Projects</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#resume">Resume</a></li>
+    <li><a href="#connect">Connect with Me</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About Me
 
 
-
-
-### Built With
-
-<!-- * [![JQuery][JQuery.com]][JQuery-url]-->
-* <a href="https://flyclipart.com/java-logos-download-java-logo-png-892734" title="Java Logos Download - Java Logo PNG"><img src="https://flyclipart.com/thumb2/java-logos-download-892734.png" width="50" /></a>
-<!-- * [![Java][java.com]][Java-url] -->
-<!-- * * [![Android Studio][java.com]][androidStudio-url]-->
-* <a href="https://flyclipart.com/android-studio-icon-android-icon-png-502596" title="Android Studio Icon - Android Icon PNG"><img src="https://flyclipart.com/thumb2/android-studio-icon-502596.png" width="45" /></a>
-
-
-
-
-<!-- GETTING STARTED -->
-
-<!-- ### Installation
-
-<!--1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
--->
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Tech Stack
 
-!-- VIA THE TEMPLATE <br>
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-!-- WILL BE ADDED AS THE PROJECT GOES ON
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+<!-- * [![JQuery][JQuery.com]][JQuery-url]-->
+<!-- * <a href="https://flyclipart.com/java-logos-download-java-logo-png-892734" title="Java Logos Download - Java Logo PNG"><img src="https://flyclipart.com/thumb2/java-logos-download-892734.png" width="50" /></a> -->
+<!-- * [![Java][java.com]][Java-url] -->
+<!-- * * [![Android Studio][java.com]][androidStudio-url]-->
+<!-- * <a href="https://flyclipart.com/android-studio-icon-android-icon-png-502596" title="Android Studio Icon - Android Icon PNG"><img src="https://flyclipart.com/thumb2/android-studio-icon-502596.png" width="45" /></a>  -->
 
 
 
+<!-- PROJECTS -->
+## Projects
+- [ ] CouchCast Android Application
+  - [ ] User Interface/Wireframes 
+- [ ] Browser Extension UI
+- [ ] Design and Manufacturing of Ultralight Lattice Metamaterials Inspired by Nature
+- [ ] Car Database 
+    
 
-<!-- CONTRIBUTING -->
-<!-- LICENSE -->
+<!-- RESUME -->
+## Resume 
+
+
 <!-- CONTACT -->
-<!-- ## Contact
+## Connect with Me ^_^
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+LinkedIn - [@nooralyasiri](https://www.linkedin.com/in/nooralyasiri/)  <!-- consider changing it to pictures -->
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Email - noor.alyasiri@mavs.uta.edu
+
+Github - [@nooralyasiri](https://github.com/nooralyasiri)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
